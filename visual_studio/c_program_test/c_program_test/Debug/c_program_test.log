@@ -1,5 +1,5 @@
 ﻿  c_program_test.c
-d:\visual_studio\c_program_test\c_program_test\c_program_test\c_program_test.c(16): warning C4013: “system”未定义；假设外部返回 int
-d:\visual_studio\c_program_test\c_program_test\c_program_test\c_program_test.c(7): warning C4101: “flocal_variable”: 未引用的局部变量
-  c_program_test.vcxproj -> D:\visual_studio\c_program_test\c_program_test\Debug\c_program_test.exe
-  c_program_test.vcxproj -> D:\visual_studio\c_program_test\c_program_test\Debug\c_program_test.pdb (Partial PDB)
+d:\learn\trunk\visual_studio\c_program_test\c_program_test\c_program_test.c(34): warning C4013: “system”未定义；假设外部返回 int
+d:\learn\trunk\visual_studio\c_program_test\c_program_test\c_program_test.c(15): warning C4101: “flocal_variable”: 未引用的局部变量
+  c_program_test.vcxproj -> D:\learn\trunk\visual_studio\c_program_test\Debug\c_program_test.exe
+  c_program_test.vcxproj -> D:\learn\trunk\visual_studio\c_program_test\Debug\c_program_test.pdb (Partial PDB)

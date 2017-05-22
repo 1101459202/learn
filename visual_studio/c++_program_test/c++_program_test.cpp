@@ -1,11 +1,15 @@
 #include <iostream>
 
-using namespace std;
+//using namespace std;
+
+using std::cout;
+using std::cin;
+using std::endl;
 
 int main(int argv, char *argc[])
 {
 	cout << "cc" << endl;
 
-	system("pause");
+	cin.get();
 	return 0;
 }
